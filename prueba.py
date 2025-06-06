@@ -1,4 +1,5 @@
-#ACTIVIDAD 7 - Cine
+###Quiero comprobar que estos cambios se han guardado
+
 
 import tkinter as tk
 from tkinter import messagebox, StringVar, OptionMenu, Frame, IntVar, Radiobutton, Scale, Toplevel, PanedWindow, Label, Button, Canvas, Scrollbar
